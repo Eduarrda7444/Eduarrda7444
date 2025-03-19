@@ -1,7 +1,7 @@
 ## Sobre mim
 Me chamo Eduarda e sou desenvolvedora full-stack. Tenho alguns projetos meus por aqui.
 
-🎯 Entusiasta do mundo da tecnologia e ciências
+❗ Entusiasta do mundo da tecnologia e ciências
 
 ## Linguagens e Tecnologias
 
