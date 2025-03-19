@@ -1,16 +1,16 @@
-## Hi there 👋
+## Sobre mim
+Me chamo Eduarda e sou desenvolvedora full-stack. Tenho alguns projetos meus por aqui.
 
-<!--
-**Eduarrda7444/Eduarrda7444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Entusiasta do mundo da tecnologia e ciências
 
-Here are some ideas to get you started:
+### Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript logo
+- React logo
+- Node.js logo
+- Laravel logo
+- Python logo
+- PHP logo
+- SQL logo
+- HTML5 logo
+- CSS3 logo
