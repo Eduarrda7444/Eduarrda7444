@@ -5,12 +5,12 @@ Me chamo Eduarda e sou desenvolvedora full-stack. Tenho alguns projetos meus por
 
 ### Linguagens e Tecnologias
 
-- JavaScript logo
-- React logo
-- Node.js logo
-- Laravel logo
-- Python logo
-- PHP logo
-- SQL logo
-- HTML5 logo
-- CSS3 logo
+- javascript logo
+- react logo
+- node.js logo
+- laravel logo
+- python logo
+- php logo
+- sql logo
+- html logo
+- css logo
