@@ -1,6 +1,5 @@
 ## Sobre mim
-Desenvolvedora Full-Stack apaixonada por tecnologia e ciências.
-Gosto de criar soluções digitais usando as melhores ferramentas e linguagens.
+Desenvolvedora Full-Stack.
 
 ## Linguagens e Tecnologias
 
