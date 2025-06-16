@@ -43,13 +43,13 @@ Minha expertise se concentra nas seguintes áreas:
 Visualize minhas contribuições e atividades no GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduarda7444&show_icons=true&theme=dracula" alt="Estatísticas do GitHub da Eduarda"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduarrda7444&show_icons=true&theme=dracula" alt="Estatísticas do GitHub da Eduarda"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduarda7444&theme=dracula" alt="GitHub Streak da Eduarda"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduarrda7444&theme=dracula" alt="GitHub Streak da Eduarda"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarda7444&layout=compact&theme=dracula" alt="Linguagens Mais Usadas pela Eduarda"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarrda7444&layout=compact&theme=dracula" alt="Linguagens Mais Usadas pela Eduarda"/>
 </p>
