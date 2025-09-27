@@ -4,10 +4,7 @@
 
 ## 🚀 Sobre Mim  
 
-Sou **Desenvolvedora Back-end** com interesse crescente em **Cibersegurança**.  
-Meu objetivo é construir aplicações **escaláveis, seguras e de alta performance**, sempre aplicando boas práticas de arquitetura, proteção de dados e automação.  
-
-Acredito que **segurança e performance** são a espinha dorsal de qualquer sistema de sucesso.  
+Sou Desenvolvedora Back-end com interesse em Cibersegurança, focada em construir aplicações escaláveis, seguras e de alta performance, sempre aplicando boas práticas de arquitetura, proteção de dados e automação. Acredito que segurança e performance são fundamentais para o sucesso de qualquer sistema e busco integrá-las de forma estratégica em todos os meus projetos.
 
 ---
 
@@ -27,7 +24,6 @@ Acredito que **segurança e performance** são a espinha dorsal de qualquer sist
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
-  <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="n8n"/>
 </p>
 
 ---
