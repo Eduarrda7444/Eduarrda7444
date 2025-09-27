@@ -13,20 +13,13 @@ Acredito que **segurança e performance** são a espinha dorsal de qualquer sist
 
 ## 🛠️ Habilidades e Tecnologias  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-E60012?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,nodejs,laravel,docker,mysql,postgresql,linux,bash,wireshark" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Nmap_logo.svg" width="48" height="48"/>
+
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="48" height="48"/>
+</p>
 
 ---
 
