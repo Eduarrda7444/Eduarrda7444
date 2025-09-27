@@ -1,5 +1,4 @@
 # 👋 Olá! Sou a Eduarda  
-
 ---
 
 ## 🚀 Sobre Mim  
