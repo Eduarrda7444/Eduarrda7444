@@ -1,5 +1,4 @@
 # Eduarda Noronha
-Desenvolvedora Back-end | Foco em Segurança e Performance.
 
 ---
 
@@ -9,7 +8,6 @@ Desenvolvedora Back-end | Foco em Segurança e Performance.
 <img src="https://skillicons.dev/icons?i=python,php,javascript,typescript,nodejs,laravel,docker,mysql,postgres,linux,git,github" height="40" alt="Python, PHP, JavaScript, TypeScript, Node.js, Laravel, Docker, MySQL, PostgreSQL, Linux, Git, GitHub"/>
 </p>
 
----
 
 ## 📈 Estatísticas do GitHub
 
@@ -17,7 +15,7 @@ Desenvolvedora Back-end | Foco em Segurança e Performance.
 <img src="https://github-readme-stats.vercel.app/api?username=Eduarrda7444&show_icons=true&theme=radical&hide_border=true&title_color=E90000" alt="Estatísticas do GitHub"/>
 </p>
 
----
+
 
 ## 🔗 Conecte-se
 
