@@ -1,9 +1,18 @@
 # Eduarda Noronha
 
-## 🛠️ Skills & Ferramentas
+Estudante de Redes de Computadores, com foco em Cybersecurity, Network Security e Digital Forensics.
+
+## Skills & Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,php,javascript,typescript,nodejs,laravel,docker,mysql,postgres,linux,git,github" height="40" alt="Python, PHP, JavaScript, TypeScript, Node.js, Laravel, Docker, MySQL, PostgreSQL, Linux, Git, GitHub"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,cisco,wireshark,git,github" height="40" alt="Linux, Python, Bash, Docker, Cisco, Wireshark, Git e GitHub"/>
 </p>
 
+## Atualmente estudando
 
+* Redes de Computadores
+* Cybersecurity
+* Network Security
+* Digital Forensics
+* Linux
+* Python para automação e segurança
