@@ -5,7 +5,10 @@ Estudante de Redes de Computadores, com foco em Cybersecurity, Network Security 
 ## Skills & Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github" height="40" alt="Linux, Python, Bash, Docker, Git e GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github" height="40" alt="Linux, Python, Bash, Docker, Git e GitHub"/>
+  <a href="https://tryhackme.com/p/h0oddu4rr">
+    <img src="https://tryhackme.com/img/favicon.png" height="40" alt="TryHackMe"/>
+  </a>
 </p>
 
 ## Atualmente estudando
